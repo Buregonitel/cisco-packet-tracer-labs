@@ -1,4 +1,4 @@
-# 📡 Configure a Wireless Router and Clients
+#  Configure a Wireless Router and Clients
 
 Лабораторная работа выполнена в **Cisco Packet Tracer**.
 
