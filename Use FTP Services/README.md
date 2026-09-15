@@ -37,7 +37,7 @@ ftp 209.165.200.226
 230- Logged in
 ```
 
-![Connect to FTP](connect to ftp server.png)
+![Connect to FTP](connect-to-the-ftp-server.png)
 
 ## 2. Загрузка файла на сервер
 
@@ -55,7 +55,7 @@ put sampleFile.txt
 
 После загрузки файл появился в списке `dir`.
 
-![Upload File](upload-file.png)
+![Upload File](upload-a-file-to-an-ftp-server.png)
 
 ## 3. Переименование, скачивание и удаление
 
@@ -76,7 +76,7 @@ quit
 - Файл удалён с сервера
 - Сессия FTP закрыта
 
-![Get Rename Delete](get-rename-delete.png)
+![Get Rename Delete](uploading-and-deleting-a-file-from-an-ftp-server.png)
 
 ## 4. Используемые FTP-команды
 
